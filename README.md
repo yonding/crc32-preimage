@@ -13,4 +13,4 @@ CRC의 동작 원리를 정확히 이해하기 위해 역연산 알고리즘을 
 
 
 ## CRC32 역연산 그림
-![Uploading crc32-reverse-illustration.jpg…]()
+![crc32-reverse-illustration](https://github.com/yonding/crc32-preimage/assets/70754463/7654cafb-7763-4594-8816-b3e2681b6f54)
