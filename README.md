@@ -1,4 +1,4 @@
-# crc32-preimage<hr>
+# crc32-preimage
 ## CRC32란?
 CRC(Cyclic Redundancy Check)는 시리얼 전송에서 데이터의 신뢰성을 검증하기 위한 에러 검출 방법의 일종이다.
 
